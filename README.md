@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Oi, Meu Nome é Alan 👋
+Estudante de Ciência da Computação
+Email: alancezarholanda@gmail.com
 <!--
 **alancezarholanda/alancezarholanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
